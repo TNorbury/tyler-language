@@ -1,5 +1,5 @@
 [package]
-name = "tyler-language"
+name = "tyler"
 version = "0.1.0"
 authors = ["Tyler Norbury"]
 edition = "2018"
