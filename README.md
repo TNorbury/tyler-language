@@ -58,7 +58,7 @@ Items can any of the three data types
 
 Create an exec  
 `e $name $code`  
-`$code` can be any of the other four commands, or another exec:
+`$code` can be any of the five commands, or another exec:
 
 -   ```
     e greeting t hello
