@@ -1,0 +1,15 @@
+t hello world
+y bye
+l desk plant computer coffee bag
+t desk
+l bag camera film water snack
+y bag
+
+e greeting t hello
+greeting
+r
+r
+r
+r
+r desk
+y greeting
